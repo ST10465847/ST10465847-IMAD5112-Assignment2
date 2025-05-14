@@ -8,6 +8,7 @@ the button leads you to the questions sector with questions with a great world b
 4 options you can choose from click one then next to get the following question .
 questions like (Which South African leader won the Nobel Peace Prize in 1993? the choose from the options below 
 But do not take a long time to choose seens there is a timer in each questions.
+This app is very helpful to people who want to know more about the south African history or learning history in a fun and quick way to know history using your device anywhere anytime. 
 
 # the score activity 
 after your done answering your questions you will get feedback  on how you did on the quiz or test 
